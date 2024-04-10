@@ -2,7 +2,8 @@
 - 👀 I’m interested in learning data science, engineering/computer science principles on my own.
 - 🌱 I’m currently learning about health care data at work.
 - 💞️ I’m looking to collaborate on analysis healthcare claims data.
-- 📫 How to reach me: LinkedIn- https://www.linkedin.com/in/kwambokajoan/ 
+- 📫 How to reach me: LinkedIn- https://www.linkedin.com/in/kwambokajoan/
+- If you have helpful tips share them with me :-) 
 
 <!---
 DataNerdEnthusiast/DataNerdEnthusiast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
